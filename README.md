@@ -1,7 +1,7 @@
 # NBA-Playoffs-Outcome-Prediction
 By James Weaver
 
-Project: 
+Project: "Data_Science_KNN_Project.pdf"
 
 # Introduction
 Performed exploratory data analysis on the NBA playoffs dataset utilizing summary statistics, histograms, scatter,

@@ -1,5 +1,6 @@
 # NBA-Playoffs-Outcome-Prediction
 By James Weaver
+Project: 
 
 # Introduction
 Performed exploratory data analysis on the NBA playoffs dataset utilizing summary statistics, histograms, scatter,
